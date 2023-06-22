@@ -1,7 +1,7 @@
 # test_final
 Repositorio que contiene ambos archivos del test para la emresa CHR
 
-##Descripción de ambos proyectos
+#Descripción de ambos proyectos
 
 Modo de uso del Primer proyecto:
     
