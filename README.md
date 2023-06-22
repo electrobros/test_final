@@ -14,6 +14,7 @@ Modo de uso del Primer proyecto:
     filtrar los datos utilizando el ID o la Caratula y, además, podrá buscar empleando el ID y los Descriptores de la Jurisprudencia. Al hacer click en alguna Jurisprudencia, también se visualizarán con ella, los valores asociados que se obtuvieron del raspado.
 
 Modo de uso del Segundo Proyecto:
+
     Sobre la vista de la aplicación:
     Consta de una barra de navegación con dos botones: "Home" (que redirige a la lista de concesiones) y "Concesiones" (que ejecuta el Script de raspado web con Selenium), al hacer click en el botón Concesiones, se abrirá un navegador Edge y procederá a ejecutarse el raspado de los datos del sitio de concesiones marítimas. (Aquí no se incluye una vista de detalle)
 
