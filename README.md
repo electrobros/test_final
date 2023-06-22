@@ -5,23 +5,23 @@ Repositorio que contiene ambos archivos del test para la emresa CHR
 
 ## Paso a paso de instalacion
 
--Descargue la carpeta del proyecto
+- Descargue la carpeta del proyecto
 
--Cree un entorno virtual con venv
+- Cree un entorno virtual con venv
 
--Instale el framework Django (V.4 en adelante) via pip
+- Instale el framework Django (V.4 en adelante) via pip
 
--Instale la librería psycopg2
+- Instale la librería psycopg2
 
--Instale la librería requests
+- Instale la librería requests
 
--Asegurese de tener PostgreSQL en su PC
+- Asegurese de tener PostgreSQL en su PC
 
--En el archivo de settings coloque los respectivos valores de configuración de su DB (User, Password, etc)
+- En el archivo de settings coloque los respectivos valores de configuración de su DB (User, Password, etc)
 
--Ejecute las migraciones
+- Ejecute las migraciones
 
--Ya está listo para usar!!
+- Ya está listo para usar!!
 
 **Modo de uso del Primer proyecto:**
     
