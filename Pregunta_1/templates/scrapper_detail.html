@@ -1,0 +1,26 @@
+<!-- templates/scrapper_detail.html-->
+{% extends 'base.html' %}
+{% block title %}Detalle de jurisprudencia{% endblock title %}
+{% block content %}
+<div class="card text-center">
+    <div class="card-header">
+      Descripción
+    </div>
+    <div class="card-body">
+      <!--Se dan los detalles de la jurisprudencia como tal
+      sin embargo, faltan algunos que son derivados de los valores de la jurisprudencia, 
+      los mismos pueden ser incluidos en caso de necesitarse-->
+      <h5 class="card-title">Detalles de la Jurisprudencia</h5>
+      <p class="card-text">Rol: {{object.rol}}</p>
+      <p class="card-text">Tribunal: {{object.tribunal}}</p>
+      <p class="card-text">Tipo de Causa: {{object.tipoCausa}}</p>
+      <p class="card-text">Competencia: {{object}}</p>
+      <p class="card-text">Caratula: {{object.caratula}}</p>
+      <p class="card-text">Fecha Sentencia: {{object.fechaSentencia}}</p>
+      <p class="card-text">Descriptores: {{object.descriptores}}</p>
+      <p class="card-text">Proyecto asociado: {{object.nombreProyecto}}</p>
+      <a href={% url 'lista' %} class="btn btn-primary">Volver al listado</a>
+    </div>
+  </div>
+{% endblock content %}
+
