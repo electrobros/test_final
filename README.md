@@ -37,7 +37,7 @@
 - Instale el framework Django (V.4 en adelante) via pip
 - Instale la librería psycopg2
 - Instale la librería selenium
-- Descargue el driver de navegador, correspondiente a Microsoft Edge, para nuestras pruebas, utilizamos la version del navegador (114.0.1823.51). Luego, copiela al PATH de su sistema
+- Descargue el driver de navegador, correspondiente a Microsoft Edge, para nuestras pruebas, utilizamos la version del navegador (114.0.1823.51). Luego, copiela al PATH de su sistema. Un ejemplo de donde lo descargué, es el siguiente [link de descarga](https://msedgewebdriverstorage.z22.web.core.windows.net/?prefix=114.0.1823.51/). En caso de tener otra version de Edge, puede buscar el driver para su versión [aquí](https://msedgewebdriverstorage.z22.web.core.windows.net/)
 - Asegurese de tener PostgreSQL en su PC
 - En el archivo de settings coloque los respectivos valores de configuración de su DB (User, Password, etc)
 - Ejecute las migraciones
