@@ -1,11 +1,11 @@
-# test_final
-Repositorio que contiene ambos archivos del test para la emresa CHR
+# Proyectos RCH
+## Repositorio que contiene ambos archivos del test para la emresa CHR
 
 # Descripción de primer proyecto
 
 ## Paso a paso de instalacion
 
-- Descargue la carpeta del proyecto
+- Descargue la carpeta del proyecto (Pregunta_1)
 
 - Cree un entorno virtual con venv
 
@@ -34,7 +34,28 @@ Repositorio que contiene ambos archivos del test para la emresa CHR
     filtrar los datos utilizando el ID o la Caratula y, además, podrá buscar empleando el ID y los Descriptores de la Jurisprudencia. Al hacer click en alguna Jurisprudencia, también se visualizarán con ella, los valores asociados que se obtuvieron del raspado.
 
 
+# Descripción de segundo proyecto
 
+## Paso a paso de instalacion
+
+- Descargue la carpeta del proyecto (Pregunta_2)
+
+- Cree un entorno virtual con venv
+
+- Instale el framework Django (V.4 en adelante) via pip
+
+- Instale la librería psycopg2
+
+- Instale la librería selenium
+
+- Asegurese de tener PostgreSQL en su PC
+
+- En el archivo de settings coloque los respectivos valores de configuración de su DB (User, Password, etc)
+
+- Ejecute las migraciones
+
+- Ya está listo para usar!!
+  
 **Modo de uso del Segundo Proyecto:**
 
     Sobre la vista de la aplicación:
