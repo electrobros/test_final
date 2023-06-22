@@ -15,4 +15,8 @@ Modo de uso del Primer proyecto:
 
 Modo de uso del Segundo Proyecto:
     Sobre la vista de la aplicación:
-    Consta de una barra de navegación con dos botones: "Home" (que redirige a la lista de concesiones) y "Concesiones" (que ejecuta el Script de raspado web con Selenium), al hacer click en el botón Concesiones, se abrirá un navegador Edge y procederá a ejecutarse el raspado de los datos del sitio de concesiones marítimas. 
+    Consta de una barra de navegación con dos botones: "Home" (que redirige a la lista de concesiones) y "Concesiones" (que ejecuta el Script de raspado web con Selenium), al hacer click en el botón Concesiones, se abrirá un navegador Edge y procederá a ejecutarse el raspado de los datos del sitio de concesiones marítimas. (Aquí no se incluye una vista de detalle)
+
+    Sobre la vista en el administrador:
+    Luego de que cree su SuperUsuario, en la vista de administración de Django, dispondrá de una vista de las Concesiones, la cual muestra 4 campos (Número de concesiones, Tipo de Concesion, lugar de la concesion y el tipo de vigencia), podrá
+    filtrar los datos utilizando el Numero de Concesion o el lugar y, además, podrá buscar empleando el Numero de Concesion y el N RS/RD. Puede dar click en cualquier Concesion y obtendrá datos más detallados. 
