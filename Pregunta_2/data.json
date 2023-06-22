@@ -1,0 +1,562 @@
+[
+    {
+        "n_concesion": "471",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "151 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINISTERIO DE OBRAS PUBLICAS",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "661",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "COLOCOLO, LOCALIDAD DE PUNTA JORGE, COMUNA DE ANTOFAGASTA",
+        "n_rd": "387 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "SERVICIO NACIONAL DE PESCA Y ACUICULTURA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "707",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA COLORADO, COMUNA DE ANTOFAGASTA",
+        "n_rd": "2071 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "EJERCITO DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "759",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "MANZANA 25 SITIO N\u00b01,CALETA ABTAO (BALNEARIO JUAN LOPEZ)",
+        "n_rd": "516 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINISTERIOS DE DEFENSA NACIONAL, SUBSECRETARIA DE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "923",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "SECTOR SUR DE LA CIUDAD DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "1258 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "ARMADA DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "1153",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "1537 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "EJERCITO DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "1281",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "NORTE DE LA PORTADA DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "69 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "FUERZA AEREA DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "1507",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA ABTAO",
+        "n_rd": "149 DS",
+        "tipo_tramite": "Modificaci\u00f3n con Rectificaci\u00f3n",
+        "concesionario": "ARMADA DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "1677",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "COMUNA DE ANTOFAGASTA",
+        "n_rd": "255 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A.",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "1683",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "COSTANERA SUR DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "77 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINISTERIO DE OBRAS PUBLICAS",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "1906",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "LA CHIMBA, COMUNA DE ANTOFAGASTRA",
+        "n_rd": "379 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "SERVICIO NACIONAL DE PESCA Y ACUICULTURA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "1961",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "COMUNA DE ANTOFAGASTA",
+        "n_rd": "337 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MUNICIPALIDAD DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "2714",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Ampliaci\u00f3m la construcci\u00f3n Avda. Jaime Guzman",
+        "n_rd": "76 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "GENDARMERIA DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "2847",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA VIEJA, COMUNA ANTOFAGASTA",
+        "n_rd": "37 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "SERVICIO NACIONAL DE PESCA Y ACUICULTURA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "3896",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "171 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "ARMADA DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "4555",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA ABTAO (PLAYA JUAN LOPEZ), AL NORTE DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "1429 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "ARMADA DE CHILE",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "4922",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PLAYA BLANCA, PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "519 DS",
+        "tipo_tramite": "Modificaci\u00f3n con Rectificaci\u00f3n",
+        "concesionario": "EJERCITO DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "5081",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "LA PORTADA, LOCALIDAD DE LA PORTADA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "340 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "SERVICIO NACIONAL DE PESCA Y ACUICULTURA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "5592",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "EL COBRE (BARRIO INDUSTRIAL) DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "335 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "EMPRESA NACIONAL DE ENERGIA ENEX S.A.",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "9922",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PLAYA BLANCA, AL SUR DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "47 DS",
+        "tipo_tramite": "Modificaci\u00f3n con Rectificaci\u00f3n",
+        "concesionario": "EJERCITO DE CHILE",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "11093",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA ABTAO (PLAYA JUAN LOPEZ), AL NORTE DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "1096 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINISTERIO DE OBRAS PUBLICAS",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "11721",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA COLOSO, AL SUR DE LA CIUDAD DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "428 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINERA ESCONDIDA LTDA.",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "14193",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PUNTA COLOSO, AL SUR DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "262 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "MINERA ESCONDIDA LTDA.",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "14238",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PUNTA COLOSO, AL SUR DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "37 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "MINERA ESCONDIDA LTDA.",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "14410",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA EL HUASCAR, AL SUR DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "184 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "JOSE LUIS GALVEZ ROSALES",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "14416",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PLAYA BLANCA, COMUNA DE ANTOFAGASTA.",
+        "n_rd": "330 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "RUPERTO RAMIREZ GALINDO",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "17157",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "EL TROCADERO, AL NORTE DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "76 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "MUNICIPALIDAD DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "17177",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "LA PORTADA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "314 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "MUNICIPALIDAD DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "17843",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "LOS PINARES, AVENIDA EDMUNDO PEREZ ZUJOVIC, COMUNA DE ANTOFAGASTA",
+        "n_rd": "86 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MUNICIPALIDAD DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "18623",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "ANTOFAGASTA",
+        "n_rd": "370 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "SERVIU REGI\u00d3N DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "20566",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Caleta Coloso",
+        "n_rd": "144 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINERA ESCONDIDA LTDA.",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "20681",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Ampliaci\u00f3n de la construcci\u00f3n Avda. Jaime Guzman",
+        "n_rd": "271 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINISTERIO DE OBRAS PUBLICAS",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "22912",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "AVENIDA EJERCITO SN, COMUNA DE ANTOFAGASTA",
+        "n_rd": "67 DS",
+        "tipo_tramite": "Modificaci\u00f3n Rebaja de Renta",
+        "concesionario": "PEDRO NATALIO ORME\u00d1O SWANECK*",
+        "tipo_vigencia": "No Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "23050",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Caleta La Chimba",
+        "n_rd": "2297 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINISTERIO DE OBRAS PUBLICAS",
+        "tipo_vigencia": "por Derogar"
+    },
+    {
+        "n_concesion": "25159",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "JARDIN DEL SUR, COMUNA DE ANTOFAGASTA",
+        "n_rd": "370 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "SOCIEDAD COMERCIAL Y DE INVERSIONES VITAL LIMITADA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "25927",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "SE UBICA A 800 MTS. AL NORTE DE PLAYA EL TROCADERO",
+        "n_rd": "866 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MUNICIPALIDAD DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "26493",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "SECTOR INDUSTRIAL N\u00b04, MANZANA 9, SITIO N\u00b03, ANTOFAGASTA",
+        "n_rd": "357 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "SOCIEDAD CONSTRUCTORA ALTAMAR LIMITADA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "26522",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PLAYA DE LOS ARRECIFES TAWN COMUNA DE ANTOFAGASTA",
+        "n_rd": "544 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "CLUB DE YATES DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "28258",
+        "tipo_concesion": "Destinaciones",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PUNTA EL YESO",
+        "n_rd": "2694 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "SERVICIO NACIONAL DE PESCA Y ACUICULTURA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "28267",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "SECTOR PLAYA LAS LOSAS A 7 KM.AL SUR DE LA PORTADA",
+        "n_rd": "614 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "INMOBILIARIA AGUA PURA LTDA.",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "28457",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA ABTAO (PLAYA JUAN LOPEZ), AL NORTE DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "576 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "CONSTRUCTORA CIVILES ASOCIADOS LIMITADA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "28472",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Caleta El Hu\u00e1scar",
+        "n_rd": "34 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MINISTERIO DE OBRAS PUBLICAS",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "29471",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "AV. EDMUNDO P\u00c9REZ ZUJOVIC",
+        "n_rd": "573 DS",
+        "tipo_tramite": "Modificaci\u00f3n con Rectificaci\u00f3n",
+        "concesionario": "MINISTERIO DE OBRAS PUBLICAS",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "29473",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "LA CALERA",
+        "n_rd": "3505 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "29487",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PIEDRA DE EL LOBO",
+        "n_rd": "398 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "REPRESENTACIONES TECNICAS DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "30847",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "TERRENO DE PLAYA, EN BARRIO INDUSTRIAL, COMUNA ANTOFAGASTA",
+        "n_rd": "396 DS",
+        "tipo_tramite": "Renovaci\u00f3n, Modificaci\u00f3n Cambio de Raz\u00f3n Social",
+        "concesionario": "EMPRESA NACIONAL DE ENERGIA ENEX S.A.",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "31945",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Caleta Coloso",
+        "n_rd": "395 DS",
+        "tipo_tramite": "Modificaci\u00f3n Ampliaci\u00f3n Superficie, Modificaci\u00f3n Plazo Inicio de obra, Modificaci\u00f3n Plazo T\u00e9rmino de Obra",
+        "concesionario": "MINERA ESCONDIDA LTDA.",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "32429",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "PIEDRA EL LOBO, COMUNA DE ANTOFAGASTA",
+        "n_rd": "145 DS",
+        "tipo_tramite": "Modificaci\u00f3n de Objeto sin Desarrollo de Obras",
+        "concesionario": "MUNICIPALIDAD DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "35075",
+        "tipo_concesion": "CCMM (10 a 50 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Sector Paseo del Mar, entre Playa El Cable a Local Mc. dona",
+        "n_rd": "317 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "MUNICIPALIDAD DE ANTOFAGASTA",
+        "tipo_vigencia": "Entregada"
+    },
+    {
+        "n_concesion": "35196",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Manzana 14 Sitio 6 del Balneario Juan Lopez",
+        "n_rd": "268 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "MARIA ROSARIO BULNES FERNANDEZ",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "35473",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "Manzana 22 Sitio 8, Caleta Abtao",
+        "n_rd": "399 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "HUMBERTO DOMINGO CONTRERAS VALDIVIA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "35772",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA ABTAO (PLAYA JUAN LOPEZ), AL NORTE DEL PUERTO DE ANTOFAGASTA, COMUNA DE ANTOFAGASTA",
+        "n_rd": "500 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "ISABEL EUGENIA PUENTE ESPINOSA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "36050",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA ABTAO, JUAN LOPEZ MZ2 SITIO 11",
+        "n_rd": "341 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "MARTA ALICIA DIAZ ULLOA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "37003",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "MANZANA 12, SITIO 7, BALNEARIO JUAN LOPEZ, CALETA ABTAO",
+        "n_rd": "376 DS",
+        "tipo_tramite": "Renovaci\u00f3n",
+        "concesionario": "MAGLIO JAVIER CORDERO ARAYA",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "41709",
+        "tipo_concesion": "CCMM (1 a 10 a\u00f1os)",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "CALETA ABTAO, BALNEARIO JUAN LOPEZ, MANZANA 26, SITIO 5",
+        "n_rd": "380 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "EDITH ELIZABETH TORRES LOPEZ",
+        "tipo_vigencia": "Entregada, con tr\u00e1mite en proceso"
+    },
+    {
+        "n_concesion": "49438",
+        "tipo_concesion": "Permiso o Autoriz.",
+        "comuna": "ANTOFAGASTA",
+        "lugar": "SUR CALETA EL COBRE",
+        "n_rd": "2 DS",
+        "tipo_tramite": "Otorgamiento",
+        "concesionario": "COMPA\u00d1IA MINERA ZALDIVAR SPA",
+        "tipo_vigencia": "Entregada"
+    }
+]

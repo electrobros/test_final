@@ -1,0 +1,36 @@
+<!-- templates/maritima_list.html -->
+{% extends 'base.html' %}
+
+{% block content %}
+<table class="table">
+    <!--Tabla senciilla, para replicar los datos obtenidos del scrap-->
+    <thead>
+      <tr>
+        <th scope="col">Nro Concesion</th>
+        <th scope="col">Tipo Concesion</th>
+        <th scope="col">Comuna</th>
+        <th scope="col">Lugar</th>
+        <th scope="col">RS / DS</th>
+        <th scope="col">Tipo Tramite</th>
+        <th scope="col">Concesionario</th>
+        <th scope="col">Tipo Vigencia</th>
+      </tr>
+    </thead>
+    <tbody>
+        <!--Recorrido de la DB usando el modelo Concesion y la vista heredada de ListView-->
+        {% for concesion in concesion_list %}
+        <tr>
+            <th scope="row">{{ concesion.nro_concesion }}</th>
+            <td>{{ concesion.tipo_concesion }}</td>
+            <td>{{ concesion.comuna }}</td>
+            <td>{{ concesion.lugar }}</td>
+            <td>{{ concesion.n_rd }}</td>
+            <td>{{ concesion.tipo_tramite }}</td>
+            <td>{{ concesion.concesionario }}</td>
+            <td>{{ concesion.tipo_vigencia }}</td>
+          </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+{% endblock content %}
+
