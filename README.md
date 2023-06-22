@@ -1,11 +1,11 @@
 # Proyectos CHR
-## Repositorio que contiene ambos archivos del test para la emresa CHR
+## Repositorio que contiene ambos archivos del test para la empresa CHR
 ### Notas de alerta:
 - Para la comodidad de la ejecución de la prueba, no se usaron variables de entorno para configurar los datos de la Base de datos
 - 
 # Descripción de primer proyecto
 
-## Paso a paso de instalacion
+## Paso a paso de instalación
 
 - Descargue la carpeta del proyecto (Pregunta_1)
 - Cree un entorno virtual con venv
@@ -30,7 +30,7 @@
 
 # Descripción de segundo proyecto
 
-## Paso a paso de instalacion
+## Paso a paso de instalación
 
 - Descargue la carpeta del proyecto (Pregunta_2)
 - Cree un entorno virtual con venv
