@@ -1,0 +1,17 @@
+<!-- templates/scrapper_list.html -->
+{% extends 'base.html' %}
+{% block title %}Lista de Archivos{% endblock title %}
+{% block content %}
+  <!--Recorrido de la DB, empleando la ListView heredada y el modelo de Jurisprudencia-->
+    {% for juris in jurisprudencia_list %}
+    <!--Se presenta cada Jurisprudencia como una tarjeta, algo similar al sitio web original-->
+    <div class="card">
+        <h5 class="card-header">{{ juris.caratula }}</h5>
+        <div class="card-body">
+          <h5 class="card-title">{{ juris.nombreProyecto }}</h5>
+          <p class="card-text">{{ juris.descriptores }}</p>
+          <a href={% url 'detalle' juris.pk %} class="btn btn-primary">Revisar Jurisprudencia</a>
+        </div>
+      </div>
+    {% endfor %}
+{% endblock content %}
