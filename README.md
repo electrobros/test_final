@@ -1,9 +1,9 @@
 # test_final
 Repositorio que contiene ambos archivos del test para la emresa CHR
 
-#Descripción de primer proyecto
+# Descripción de primer proyecto
 
-#Paso a paso de instalacion
+## Paso a paso de instalacion
 
 -Descargue la carpeta del proyecto
 
@@ -23,7 +23,7 @@ Repositorio que contiene ambos archivos del test para la emresa CHR
 
 -Ya está listo para usar!!
 
-*Modo de uso del Primer proyecto:*
+**Modo de uso del Primer proyecto:**
     
     Sobre la vista en la aplicación:
     Al iniciar el servidor de Django, se carga una página con una barra de navegación, en donde se incluye un campo de búsqueda, para que coloque la palabra asociada a la Jurisprudencia que está buscando. Al darle click a buscar, será redirigido a la página que contiene todos los datos extraidos de la búsqueda (puede retornar hasta 1000 registros).
@@ -35,7 +35,7 @@ Repositorio que contiene ambos archivos del test para la emresa CHR
 
 
 
-*Modo de uso del Segundo Proyecto:*
+**Modo de uso del Segundo Proyecto:**
 
     Sobre la vista de la aplicación:
     Consta de una barra de navegación con dos botones: "Home" (que redirige a la lista de concesiones) y "Concesiones" (que ejecuta el Script de raspado web con Selenium), al hacer click en el botón Concesiones, se abrirá un navegador Edge y procederá a ejecutarse el raspado de los datos del sitio de concesiones marítimas. (Aquí no se incluye una vista de detalle)
